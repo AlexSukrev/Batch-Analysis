@@ -1,0 +1,2 @@
+path=C:\Batch_analysis\1_scmos_batch_fitting.py;C:\Program Files\Python36\Lib\site-packages\storm_analysis\sa_library\;C:\Program Files\Python36\;C:\Program Files (x86)\mingw32\i686-w64-mingw32\bin\;C:\Program Files (x86)\mingw32\i686-w64-mingw32\lib\;
+python 1_scmos_batch_fitting.py
