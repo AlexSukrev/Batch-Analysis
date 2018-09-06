@@ -16,10 +16,11 @@ Hopefully, the GUI can finish the following functions:
       The directory (expfolder). (line 20)
       The number of max_processes (default 100) (line 27)
     The files will be generated to WorkDirectory/bins/. 
-    Use "2_master_python_analysis.py" to convert the output from .hdf5 to .tiff: 
+    - Use "2_master_python_analysis.py" to convert the output from .hdf5 to .tiff: 
       Change the directory (line 19)
       Change the max_processes (line 26)
     The images will be generated under WorkDirectory/stormpngs/
+    - Or alternatively use "0_1_convert_hdf5_to_bin.py" to convert the output files to bin files and examine them with insight3. The files will be generated under "WorkDirectory/acquisition/real_bins/"
     Remember to delete the test files manually after the parameter test. 
     
   2 STORM analysis and bead_warp analysis. 
